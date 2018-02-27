@@ -10,6 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello world!!\n");
+            Console.Write("I'm Ta Xuan Tung");
+            Console.Read();
+
         }
     }
 }
