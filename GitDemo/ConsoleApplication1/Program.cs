@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Nguyen Tuan Lam1");
             Console.WriteLine("Nguyen Tuan Lam2");
             Console.WriteLine("Trieu Hoang Phuc");
+            Console.WriteLine("Lương Gia Long");
             Console.ReadLine();
         }
     }
