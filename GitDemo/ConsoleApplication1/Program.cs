@@ -10,10 +10,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.Write("I'm Ta Xuan Tung");
+            Console.WriteLine("Tạ Xuân Tùng");
+            Console.WriteLine("Dư Anh Tú");
             Console.WriteLine("Nguyen Cuong Luc new");
-            Console.WriteLine("Nguyen Tuan Lam1");
-            Console.WriteLine("Nguyen Tuan Lam2");
+            Console.WriteLine("Nguyen Tuan Lam");
+            Console.WriteLine("Trieu Hoang Phuc");
             Console.ReadLine();
         }
     }
