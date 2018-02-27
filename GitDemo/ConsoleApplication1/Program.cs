@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Nguyen Cuong Luc new");
             Console.WriteLine("Nguyen Tuan Lam");
+            Console.WriteLine("Trieu Hoang Phuc");
             Console.ReadLine();
         }
     }
