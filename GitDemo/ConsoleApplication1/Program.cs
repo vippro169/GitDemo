@@ -11,8 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Nguyen Cuong Luc new");
-            Console.WriteLine("Nguyen Tuan Lam1");
-            Console.WriteLine("Nguyen Tuan Lam2");
+            Console.WriteLine("Nguyen Tuan Lam");
             Console.ReadLine();
         }
     }
