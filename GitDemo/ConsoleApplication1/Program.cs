@@ -10,11 +10,18 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dư Anh Tú");
             Console.WriteLine("Nguyen Cuong Luc new");
+            Console.WriteLine("Nguyen Tuan Lam1");
+            Console.WriteLine("Nguyen Tuan Lam2");
+            Console.WriteLine("Do Minh Thanh");
             Console.WriteLine("Nguyen Tuan Lam");
             Console.WriteLine("Trieu Hoang Phuc");
+<<<<<<< HEAD
             Console.WriteLine("Nguyễn Hữu Lợi trường UIT");
+=======
+            Console.WriteLine("Lương Gia Long");
+            Console.WriteLine("Nguyễn Hữu Lợi");
+>>>>>>> develop
             Console.ReadLine();
         }
     }
